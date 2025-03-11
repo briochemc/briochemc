@@ -1,6 +1,8 @@
-<a href="https://github.com/briochemc">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=briochemc&count_private=true&show_icons=true&theme=algolia" />
-</a>
-<a href="https://github.com/briochemc">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=briochemc&hide=jupyter%20notebook,tex&theme=algolia" />
-</a>
+I am a scientist with mathematical training who spent time studying the ocean and its response to our warming climate.
+I am currently on the job market for projects dedicated to the fight against climate change and its impacts.
+
+My resume at a glance:
+
+![](https://briochemc.github.io/assets/timeline.svg)
+
+For more details, including a link to my complete CV, head over to [www.bpasquier.com](www.bpasquier.com).
